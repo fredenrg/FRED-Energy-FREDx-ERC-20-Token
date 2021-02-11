@@ -18,14 +18,13 @@ FRED Treasury - 0x64905e84bed8317d78f3de8BA9Be6484bD2FbFCF<br>
 Team - 0xBBD7E6De6aB68e1022bAD00920F8701bBCeDE17F<br>
 Founder - 0xD9F234aB4f9fC4379d32C8FdD42182168C703cc9<br>
 
-
+They have been allocated as per the whitepaper https://fredenergy.org/whitepaper/FREDEnergy-Whitepaper-2021-v1.6.pdf
 
 <strong>Project links and Socials</strong><br>
 
-Pitch Deck - https://www.swipe.to/2191nm
 
 Official website/blog http://fredenergy.org<br>
-Token Sale https://token.fredenergy.org<br>
+Token Information https://token.fredenergy.org<br>
 Medium https://fredenergy-org.medium.com/<br>
 Twitter https://twitter.com/energy_fred<br>
 Telegram https://t.me/FREDEnergycommunity<br>
@@ -33,4 +32,5 @@ Discord https://discord.gg/uhAjg9w<br>
 Facebook https://www.facebook.com/TheFredProjectOfficial<br>
 Bitcointalk https://bitcointalk.org/index.php?topic=5160351<br>
 Youtube https://www.youtube.com/playlist?list=PLT42cs8i5DsG5oPuJKCo53Rp3OkCF66lb<br>
+Pitch Deck - https://www.swipe.to/2191nm
 <br>
